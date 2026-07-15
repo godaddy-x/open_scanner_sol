@@ -1,0 +1,7 @@
+.idea/
+resource/
+logs/
+*.exe
+output/
+*.exe~
+*.log
