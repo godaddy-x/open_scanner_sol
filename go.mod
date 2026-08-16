@@ -6,7 +6,7 @@ require (
 	github.com/godaddy-x/freego v1.1.33
 	github.com/godaddy-x/open_scanner v1.0.13
 	github.com/godaddy-x/wallet-adapter v1.0.9
-	github.com/godaddy-x/wallet-adapter-sol v1.0.0
+	github.com/godaddy-x/wallet-adapter-sol v1.0.1
 )
 
 require (
