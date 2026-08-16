@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/godaddy-x/freego/rpcx"
+	"github.com/godaddy-x/freego/server/rpc"
 )
 
 // Register adds Solana-specific RPC handlers.

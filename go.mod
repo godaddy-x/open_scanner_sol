@@ -3,9 +3,9 @@ module github.com/godaddy-x/open_scanner_sol
 go 1.26
 
 require (
-	github.com/godaddy-x/freego v1.1.28
-	github.com/godaddy-x/open_scanner v1.0.3
-	github.com/godaddy-x/wallet-adapter v1.0.8
+	github.com/godaddy-x/freego v1.1.33
+	github.com/godaddy-x/open_scanner v1.0.13
+	github.com/godaddy-x/wallet-adapter v1.0.9
 	github.com/godaddy-x/wallet-adapter-sol v1.0.0
 )
 
@@ -13,10 +13,8 @@ require (
 	filippo.io/edwards25519 v1.0.0-rc.1 // indirect
 	filippo.io/mldsa v0.0.0-20260215214346-43d0283efc3e // indirect
 	github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129 // indirect
-	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/blendle/zapdriver v1.3.1 // indirect
 	github.com/bsm/redislock v0.9.4 // indirect
-	github.com/buaazp/fasthttprouter v0.1.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
@@ -24,7 +22,6 @@ require (
 	github.com/gagliardetto/binary v0.8.0 // indirect
 	github.com/gagliardetto/solana-go v1.12.0 // indirect
 	github.com/gagliardetto/treeout v0.1.4 // indirect
-	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/godaddy-x/eccrypto v1.1.17 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -33,7 +30,6 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
-	github.com/lxzan/gws v1.9.1 // indirect
 	github.com/mailru/easyjson v0.9.1 // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.11 // indirect
@@ -50,8 +46,6 @@ require (
 	github.com/tidwall/gjson v1.18.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.62.0 // indirect
 	github.com/valyala/fastjson v1.6.3 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.1.2 // indirect
