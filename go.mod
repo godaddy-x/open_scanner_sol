@@ -3,8 +3,8 @@ module github.com/godaddy-x/open_scanner_sol
 go 1.26
 
 require (
-	github.com/godaddy-x/freego v1.1.36
-	github.com/godaddy-x/open_scanner v1.0.17
+	github.com/godaddy-x/freego v1.1.37
+	github.com/godaddy-x/open_scanner v1.0.18
 	github.com/godaddy-x/wallet-adapter v1.0.9
 	github.com/godaddy-x/wallet-adapter-sol v1.0.3
 )
@@ -22,7 +22,7 @@ require (
 	github.com/gagliardetto/binary v0.8.0 // indirect
 	github.com/gagliardetto/solana-go v1.12.0 // indirect
 	github.com/gagliardetto/treeout v0.1.4 // indirect
-	github.com/godaddy-x/eccrypto v1.1.19 // indirect
+	github.com/godaddy-x/eccrypto v1.1.20 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/imroc/req v0.3.2 // indirect
