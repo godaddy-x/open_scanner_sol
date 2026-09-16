@@ -3,10 +3,10 @@ module github.com/godaddy-x/open_scanner_sol
 go 1.26
 
 require (
-	github.com/godaddy-x/freego v1.1.35
+	github.com/godaddy-x/freego v1.1.36
 	github.com/godaddy-x/open_scanner v1.0.17
 	github.com/godaddy-x/wallet-adapter v1.0.9
-	github.com/godaddy-x/wallet-adapter-sol v1.0.2
+	github.com/godaddy-x/wallet-adapter-sol v1.0.3
 )
 
 require (
