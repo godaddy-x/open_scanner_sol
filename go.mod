@@ -3,7 +3,7 @@ module github.com/godaddy-x/open_scanner_sol
 go 1.26
 
 require (
-	github.com/godaddy-x/freego v1.1.38
+	github.com/godaddy-x/freego v1.1.39
 	github.com/godaddy-x/open_scanner v1.0.19
 	github.com/godaddy-x/wallet-adapter v1.0.9
 	github.com/godaddy-x/wallet-adapter-sol v1.0.3
@@ -31,7 +31,7 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
-	github.com/mailru/easyjson v0.9.1 // indirect
+	github.com/mailru/easyjson v0.9.2 // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.11 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
