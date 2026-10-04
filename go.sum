@@ -46,8 +46,8 @@ github.com/godaddy-x/open_scanner v1.0.22 h1:yQcz3bqTvwbsu6w/dqDu6KaoW4Ae0DeAwjl
 github.com/godaddy-x/open_scanner v1.0.22/go.mod h1:YXxNVeVGtTQ4JutZb5CGBmZY6E+Sudt6CJAReONUvdc=
 github.com/godaddy-x/wallet-adapter v1.0.13 h1:8gDSioJPv3PX1su+JMNttoVfA3ct7StB/l3H5s6qSbs=
 github.com/godaddy-x/wallet-adapter v1.0.13/go.mod h1:l2+ywGX+Ti+YCUc7rwZKUcKcqAwR6e6Qw2hcerHj/TQ=
-github.com/godaddy-x/wallet-adapter-sol v1.0.4 h1:aVwglo3/X1IL5ky1OjsS4eNd+78FxiJbyYDX/YOU7NI=
-github.com/godaddy-x/wallet-adapter-sol v1.0.4/go.mod h1:sSxUtdH5nOd0PCS89FLvfzGfQ3nvX5+O8cXvAu2kZH0=
+github.com/godaddy-x/wallet-adapter-sol v1.0.5 h1:3W3RlSman51mI5nPHfspBgZ39dvFspU67mbO21d2/M4=
+github.com/godaddy-x/wallet-adapter-sol v1.0.5/go.mod h1:sSxUtdH5nOd0PCS89FLvfzGfQ3nvX5+O8cXvAu2kZH0=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
 github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps=
 github.com/golang/snappy v1.0.0 h1:Oy607GVXHs7RtbggtPBnr2RmDArIsAefDwvrdWvRhGs=
