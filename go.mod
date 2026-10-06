@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	github.com/godaddy-x/freego v1.1.39
-	github.com/godaddy-x/open_scanner v1.0.22
+	github.com/godaddy-x/open_scanner v1.0.23
 	github.com/godaddy-x/wallet-adapter v1.0.13
 	github.com/godaddy-x/wallet-adapter-sol v1.0.11
 )
