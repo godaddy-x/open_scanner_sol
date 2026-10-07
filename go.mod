@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	github.com/godaddy-x/freego v1.1.39
-	github.com/godaddy-x/open_scanner v1.0.23
+	github.com/godaddy-x/open_scanner v1.0.24
 	github.com/godaddy-x/wallet-adapter v1.0.13
 	github.com/godaddy-x/wallet-adapter-sol v1.0.11
 )
@@ -68,3 +68,5 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/godaddy-x/open_scanner => ../open_scanner
