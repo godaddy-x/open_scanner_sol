@@ -42,8 +42,8 @@ github.com/godaddy-x/eccrypto v1.1.20 h1:vNQ7wK7Vl3+/lCVNr/2+H2EJF+zcXT7bUD6+bp8
 github.com/godaddy-x/eccrypto v1.1.20/go.mod h1:yF2UZDeOaJ8U3DfmdaDP4by7Vr7SaWRpZ3d4zOczoUw=
 github.com/godaddy-x/freego v1.1.39 h1:npaEcyZ+BKc9/xyjuczcDe7ZVJRYfZxx8KXwuQVCSBw=
 github.com/godaddy-x/freego v1.1.39/go.mod h1:5cOENp8cHbPbdGGVjYvmbJ+R2LY9voMb/dq+KAuEkO4=
-github.com/godaddy-x/open_scanner v1.0.28 h1:tSPqn00qysuo9NZXgo8pp9hBkZrha4i6JKlDOsIgWI0=
-github.com/godaddy-x/open_scanner v1.0.28/go.mod h1:UkaQ+/Tl1WUMmsmIH/hJv5P3fBSgf7S1qGC3dfxuaOU=
+github.com/godaddy-x/open_scanner v1.0.32 h1:TcIDpsZMtwBuUSZHPokoTbQ7/VVcdqbRnrT820omoPI=
+github.com/godaddy-x/open_scanner v1.0.32/go.mod h1:UkaQ+/Tl1WUMmsmIH/hJv5P3fBSgf7S1qGC3dfxuaOU=
 github.com/godaddy-x/wallet-adapter v1.0.14 h1:8WQJ4lf2j6rBqm4qE+W74OOd0CGnFZj/lWcR6djYC7Q=
 github.com/godaddy-x/wallet-adapter v1.0.14/go.mod h1:l2+ywGX+Ti+YCUc7rwZKUcKcqAwR6e6Qw2hcerHj/TQ=
 github.com/godaddy-x/wallet-adapter-sol v1.0.12 h1:5mJMRx/C+mjKq6uvDMrWQfG9UwqKJfJdh3Ti1obC0U8=
